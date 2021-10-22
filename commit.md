@@ -1,10 +1,19 @@
 # Commits Log
 
-## Icah
+## Icah Vega
 
-## Lucas
+[b5ecbcd](https://github.com/Icahpv/cpnt201-a4/commit/b5ecbcd273c8620757a983b8cbc05c63c6da502a) - Icah initial commit
+[99597e9](https://github.com/Icahpv/cpnt201-a4/commit/99597e9a25e5a1b465f9071b2d8a821fb94ad868) - added rules and team members
+[6ae4823](https://github.com/Icahpv/cpnt201-a4/commit/6ae482374266f1018fbdb496cdd8f329e8afd419) - footer and title and bugs 
+[1de3315](https://github.com/Icahpv/cpnt201-a4/commit/1de3315f0a9fe96fdd4655fc823c133a8336854d) - readme links 
+[8b3bc87](https://github.com/Icahpv/cpnt201-a4/commit/8b3bc87d03358bf4af183a86e9bfdd9270c8ac8c) - todo
+[f648a42](https://github.com/Icahpv/cpnt201-a4/commit/f648a429abcfa8c24889ced5c56a4a63ff6e13c2) - error pls 
+[2366aac](https://github.com/Icahpv/cpnt201-a4/commit/2366aac48a08628dd604502d94625fd63e60a62b) - idk
+[3a5bcf6](https://github.com/Icahpv/cpnt201-a4/commit/3a5bcf6606abcce3e69c47abafc48596cb196fce) - fixed error
 
-## Evan
+## Lucas Cummings
+
+## Evan Burton
 
 [1ec531a](https://github.com/Icahpv/cpnt201-a4/commit/1ec531a50bc8fd1f4c79d79b239950ac6520b286) - update blog
 [b0d1e9a](https://github.com/Icahpv/cpnt201-a4/commit/b0d1e9a3b038e75ec54515c6329948998d645238) -list update
