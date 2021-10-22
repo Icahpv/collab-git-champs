@@ -7,8 +7,8 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 (Include name as a link to the person's github repo)
 
 - Maintainer: Icah Vega
-- Collaborator: Evan Burton
-- Contributor: Lucas Cummings
+- Collaborator: [Evan Burton](https://github.com/Rankorrdagod)
+- Contributor: [Lucas Cummings](https://github.com/lucas-cq)
 
 ## Rules
 
