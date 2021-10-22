@@ -6,15 +6,15 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 
 (Include name as a link to the person's github repo)
 
-- Maintainer:
-- Collaborator:
-- Contributor:
+- Maintainer: Icah Vega
+- Collaborator: Evan Burton
+- Contributor: Lucas Cummings
 
 ## Rules
 
-1.
-2.
-3.
+1. Be nice  
+2. Comment your commits well
+3. Take Advil
 
 ---
 
