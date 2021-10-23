@@ -13,9 +13,9 @@
 
 ## Lucas Cummings
 [285d13d](https://github.com/Icahpv/cpnt201-a4/commit/285d13d5cd2d6b05d90d9f865bfb9a3a08eaf339) - Initial Commit
-[d1f7bd6](https://github.com/Icahpv/cpnt201-a4/commit/d1f7bd67a3d71d99a217bb1dd8d5df34fe327712) -
-[]() -
-[]() -
+[d1f7bd6](https://github.com/Icahpv/cpnt201-a4/commit/d1f7bd67a3d71d99a217bb1dd8d5df34fe327712) - added links
+[917dc30](https://github.com/Icahpv/cpnt201-a4/commit/917dc30eabc73026e454c3b819fe5dd44452e977) - added more global nav
+[e8215c5](https://github.com/Icahpv/cpnt201-a4/commit/e8215c50ca1c6bb75838d5cbe7dfdb1b449b52a3) - added player roles
 ## Evan Burton
 
 [1ec531a](https://github.com/Icahpv/cpnt201-a4/commit/1ec531a50bc8fd1f4c79d79b239950ac6520b286) - update blog
