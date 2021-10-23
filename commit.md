@@ -12,7 +12,7 @@
 [3a5bcf6](https://github.com/Icahpv/cpnt201-a4/commit/3a5bcf6606abcce3e69c47abafc48596cb196fce) - fixed error
 
 ## Lucas Cummings
-[]() - Initial Commit
+[285d13d](https://github.com/Icahpv/cpnt201-a4/commit/285d13d5cd2d6b05d90d9f865bfb9a3a08eaf339) - Initial Commit
 []() -
 []() -
 []() -
